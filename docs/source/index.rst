@@ -1,5 +1,5 @@
-SETaP2026 Code Documentation Template
-====================================================
+SETaP2026 Code Documentation Template - good practice document
+===============================================================
 
 This is an example of documentation. It coveres themes such as:
 
